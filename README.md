@@ -30,6 +30,8 @@ npm run dev
 
 > Prettier and ts-lint are using to check Typescript code for readability, maintainability, and functionality errors
 
+> Make sure you follow this style, and do not force commit to bypass the coding style validation
+
 ## Meta
 
 1. This is maintained by `@Nhat Nguyen` - [https://sinme.xyz](https://sinme.xyz)
