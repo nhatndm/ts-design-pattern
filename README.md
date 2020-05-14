@@ -18,19 +18,19 @@
 npm i
 ```
 
-## Development
+## Check your code run as expectation
 
-> Make sure you finish installation properly first
+> To ensure you finish installation properly first
 
 ```
-npm run dev
+npm run test
 ```
 
 ## Coding Style
 
 > Prettier and ts-lint are using to check Typescript code for readability, maintainability, and functionality errors
 
-> Make sure you follow this style, and do not force commit to bypass the coding style validation
+> Please follow this style, and do not force commit to bypass the coding style validation
 
 ## Meta
 
